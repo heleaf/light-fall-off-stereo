@@ -1,5 +1,5 @@
 ### Light Fall-off Stereo 
-#### Helena Yang, 15-463 Fall 2022 Final Project
+15-463 Fall 2022 Final Project
 
 **Report:** see the PDF in the repo
 
